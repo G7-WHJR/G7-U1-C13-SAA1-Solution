@@ -1,4 +1,4 @@
-var fruits = ["Apple", "Mango", "Banana", "orange"];
+var fruits = ["Apple", "Mango", "Banana", "Orange"];
 
 function setup() {
 
@@ -6,7 +6,6 @@ function setup() {
     console.log(fruits[i]);
   }
 }
-
 
 function draw() {
     
